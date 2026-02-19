@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "food-sub-temp",
-    "slug": "food-sub-temp",
+    "name": "FoodBox",
+    "slug": "foodbox",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
